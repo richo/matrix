@@ -1,0 +1,3 @@
+This is a matrix application I wrote years ago, and then used to play with cython
+
+It is buggy, I need to fix it's terminal detection, among a few other things
